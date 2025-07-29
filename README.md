@@ -46,7 +46,7 @@ Frontend: React (Vite)
 
 State Management: React Context API
 
-Styling: Plain CSS (or Tailwind if used)
+Styling: Tailwind 
 
 Persistence: localStorage
 
@@ -54,7 +54,7 @@ Persistence: localStorage
 Clone the repo
 
 sh
-git clone https://github.com/your-username/react-timer-app.git
+git clone https://github.com/your-username/healthAssess.git
 cd react-timer-app
 Install dependencies
 
@@ -64,5 +64,5 @@ Run the app
 
 sh
 npm run dev
-Open http://localhost:3000 in your browser.
+Open localhost in your browser.
 
